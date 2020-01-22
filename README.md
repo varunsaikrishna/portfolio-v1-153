@@ -1,1 +1,1 @@
-docs: update README with setup instructions\nstyle: format code with prettier\n
+docs: update README with setup instructions\nstyle: format code with prettier\nchore: cleanup dead code\n
