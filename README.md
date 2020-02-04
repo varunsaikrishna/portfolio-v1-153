@@ -1,1 +1,1 @@
-docs: update README with setup instructions\nstyle: format code with prettier\nchore: cleanup dead code\nfix: typo in documentation\nrefactor: simplify state management\nfix: typo in documentation\nchore: cleanup dead code\nperf: optimize database queries for dashboard\n
+docs: update README with setup instructions\nstyle: format code with prettier\nchore: cleanup dead code\nfix: typo in documentation\nrefactor: simplify state management\nfix: typo in documentation\nchore: cleanup dead code\nperf: optimize database queries for dashboard\nfeat: initial commit\n
